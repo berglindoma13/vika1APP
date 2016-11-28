@@ -1,0 +1,13 @@
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/HelloWorld.dll
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/HelloWorld.dll.mdb
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/DM.MovieApi.dll
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/HelloWorld.iOS.exe.mdb
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/HelloWorld.iOS.exe
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/HelloWorld.iOS.exe
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/HelloWorld.iOS.exe.mdb

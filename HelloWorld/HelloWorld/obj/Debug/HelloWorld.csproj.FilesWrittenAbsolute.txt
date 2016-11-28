@@ -1,0 +1,7 @@
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/obj/Debug/.NETPortable,Version=v4.6,Profile=Profile151.AssemblyAttribute.cs
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/bin/Debug/HelloWorld.dll.mdb
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/bin/Debug/HelloWorld.dll
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/obj/Debug/HelloWorld.dll
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/obj/Debug/HelloWorld.dll.mdb
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/bin/Debug/Newtonsoft.Json.dll
+/Users/VilhjalmurAlex/HR/5 Önn/vika1APP/HelloWorld/HelloWorld/bin/Debug/DM.MovieApi.dll
